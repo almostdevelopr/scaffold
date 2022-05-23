@@ -1,4 +1,4 @@
 from hello import add
 
 def test_add():
-    assert add(21,1)==3
+    assert add(2,1)==3
